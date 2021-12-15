@@ -17,4 +17,11 @@ public class AppiumTest {
 		System.out.println("ios Testing");
 		
 	}
+	@Test
+	public void ArchitectTest()
+	
+	{
+		System.out.println("Architect Testing");
+		
+	}
 }

@@ -16,6 +16,13 @@ public void elementsUi()
 	System.out.println("webElements in the Webpage");
 	
 }
+@Test
+public void elementsui()
+{
+	
+	System.out.println("id,name,xpath,etc");
+	
+}
 
 
 

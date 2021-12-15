@@ -20,5 +20,12 @@ public class RESTAPITest{
 		System.out.println("rest api testcase");
 		
 	}
+	@Test
+	public void restfulTesting()
+	
+	{
+		System.out.println("rest assured Testing");
+		
+	}
 
 }
